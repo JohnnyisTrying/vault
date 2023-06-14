@@ -168,11 +168,11 @@ require (
 	go.opentelemetry.io/otel/sdk v0.20.0
 	go.opentelemetry.io/otel/trace v0.20.0
 	go.uber.org/atomic v1.9.0
-	go.uber.org/goleak v1.1.11-0.20210813005559-691160354723
+	go.uber.org/goleak v1.1.12
 	golang.org/x/crypto v0.0.0-20210817164053-32db794688a5
 	golang.org/x/net v0.0.0-20211020060615-d418f374d309
 	golang.org/x/oauth2 v0.0.0-20200107190931-bf48bf16ab8d
-	golang.org/x/sys v0.0.0-20211025201205-69cdffdb9359
+	golang.org/x/sys v0.0.0-20220722155257-8c9f86f7a55f
 	golang.org/x/term v0.0.0-20210615171337-6886f2dfbf5b
 	golang.org/x/tools v0.1.5
 	google.golang.org/api v0.30.0
@@ -207,7 +207,7 @@ require (
 	github.com/Masterminds/goutils v1.1.0 // indirect
 	github.com/Masterminds/semver v1.5.0 // indirect
 	github.com/Masterminds/sprig v2.22.0+incompatible // indirect
-	github.com/Microsoft/go-winio v0.5.1 // indirect
+	github.com/Microsoft/go-winio v0.5.2 // indirect
 	github.com/Microsoft/hcsshim v0.9.0 // indirect
 	github.com/Nvveen/Gotty v0.0.0-20120604004816-cd527374f1e5 // indirect
 	github.com/StackExchange/wmi v1.2.1 // indirect
@@ -231,9 +231,9 @@ require (
 	github.com/circonus-labs/circonus-gometrics v2.3.1+incompatible // indirect
 	github.com/circonus-labs/circonusllhist v0.1.3 // indirect
 	github.com/cloudfoundry-community/go-cfclient v0.0.0-20210823134051-721f0e559306 // indirect
-	github.com/containerd/cgroups v1.0.1 // indirect
-	github.com/containerd/containerd v1.5.7 // indirect
-	github.com/containerd/continuity v0.2.1 // indirect
+	github.com/containerd/cgroups v1.0.3 // indirect
+	github.com/containerd/containerd v1.5.18 // indirect
+	github.com/containerd/continuity v0.3.0 // indirect
 	github.com/coreos/go-oidc v2.2.1+incompatible // indirect
 	github.com/coreos/go-oidc/v3 v3.0.0 // indirect
 	github.com/coreos/go-systemd/v22 v22.3.2 // indirect
@@ -304,7 +304,7 @@ require (
 	github.com/linode/linodego v0.7.1 // indirect
 	github.com/mattn/go-ieproxy v0.0.1 // indirect
 	github.com/mattn/go-isatty v0.0.14 // indirect
-	github.com/matttproud/golang_protobuf_extensions v1.0.2-0.20181231171920-c182affec369 // indirect
+	github.com/matttproud/golang_protobuf_extensions v1.0.4 // indirect
 	github.com/miekg/dns v1.1.40 // indirect
 	github.com/mitchellh/hashstructure v1.0.0 // indirect
 	github.com/mitchellh/iochan v1.0.0 // indirect
@@ -320,7 +320,7 @@ require (
 	github.com/nwaples/rardecode v1.1.2 // indirect
 	github.com/okta/okta-sdk-golang v1.1.0 // indirect
 	github.com/opencontainers/go-digest v1.0.0 // indirect
-	github.com/opencontainers/image-spec v1.0.1 // indirect
+	github.com/opencontainers/image-spec v1.0.2 // indirect
 	github.com/opencontainers/runc v1.0.2 // indirect
 	github.com/openlyinc/pointy v1.1.2 // indirect
 	github.com/packethost/packngo v0.1.1-0.20180711074735-b9cb5096f54c // indirect
